@@ -1,0 +1,16 @@
+{
+  "name": "abrigo-animais",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Desafio Abrigo de Animais",
+  "main": "abrigo-animais.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Joelayne",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
